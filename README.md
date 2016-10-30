@@ -1,2 +1,2 @@
 #Laravel学习资料
-这里放置一些学习Laravel过程中的一些知识
+Laravel相关库和知识点
